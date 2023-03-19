@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cadeb15e-ae97-4577-a7ea-da4fb06412d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4_Task1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="cadeb15e-ae97-4577-a7ea-da4fb06412d0" name="Changes" comment="Создайте переменную для массива из 10 элементов.&#10;Заполните его произвольными значениями целочисленного типа.&#10;Выведите на экран элементы, стоящие на четных позициях.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679169435609</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создайте переменную для массива из 10 элементов.&#10;Заполните его произвольными значениями целочисленного типа.&#10;Выведите на экран элементы, стоящие на четных позициях.">
+      <created>1679208334864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679208334864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создайте переменную для массива из 10 элементов.&#10;Заполните его произвольными значениями целочисленного типа.&#10;Выведите на экран элементы, стоящие на четных позициях." />
+    <option name="LAST_COMMIT_MESSAGE" value="Создайте переменную для массива из 10 элементов.&#10;Заполните его произвольными значениями целочисленного типа.&#10;Выведите на экран элементы, стоящие на четных позициях." />
   </component>
 </project>

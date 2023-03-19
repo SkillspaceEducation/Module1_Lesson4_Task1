@@ -9,9 +9,9 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        final int arrayInitLen = 10; // Размер исходного массива
-        int[] arrayInit = new int[arrayInitLen]; // Исходный массив
-        int[] arrayEvenInd = new int[arrayInitLen / 2]; // Массив для вывода элементов исходного массива с четными
+        final int ARRAY_LEN = 10; // Размер исходного массива
+        int[] arrayInit = new int[ARRAY_LEN]; // Исходный массив
+        int[] arrayEvenInd = new int[ARRAY_LEN / 2]; // Массив для вывода элементов исходного массива с четными
         // индексами, его размер в два раза меньше исходного
         Random rand = new Random();
         for (int i = 0; i < arrayInit.length; i++) {
